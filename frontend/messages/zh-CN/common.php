@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'Blog' => '博客',
+    'Signup' => '注册',
+    'Login' => '登录',
+    'About' => '关于',
+    'Contact' => '联系',
+    'Username' => '用户名',
+    'Email' => '邮箱',
+    'Password' => '密码',
+    'Repassword' => '重复密码',
+    'VeryfyCode' => '验证码',
+    'RememberMe' => '记住登录',
+    'Post' => '文章',
+    'Logout' => '登出',
+    'Please fill out the following fields to signup:' => '请填写下面信息进行注册:',
+    'Please fill out the following fields to login:' => '请填写下面信息进行登录:',
+    'two password is not same' => '两次密码不一致',
+    'This username has already been taken.' => '用户名已存在',
+    'This email address has already been taken.' => '邮箱已存在',
+    'If you forgot your password' => '忘记密码？',
+    'Reset it.' => '重置',
+    'username rule label' => '用户名必须由字母、数字、汉字、下划线组成，而且不能以数字、下划线为首字符！',
+    'Incorrect username or password.' => '用户名或者密码错误',
+];
